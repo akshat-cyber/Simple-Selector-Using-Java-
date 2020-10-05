@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UX and UI</string>
+    <string-array name="names">
+        <item> "Akshat"</item>
+        <item>"Sahijpal"</item>
+        <item>"Chd"</item>
+        <item> "Ind"</item>
+    </string-array>
+</resources>
